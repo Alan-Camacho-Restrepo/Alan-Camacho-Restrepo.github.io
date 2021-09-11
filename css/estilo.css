@@ -7,6 +7,12 @@ body{
     background-color: deepskyblue;
     padding: 10px;
 }
+#Footer{
+
+    color:lime;
+    text-align: left;
+
+}
 
 #container{
     text-align: center;
